@@ -10,5 +10,8 @@
   "description": "",
   "dependencies": {
     "uuid": "^11.0.5"
+  },
+  "engines": { 
+    "node": "18.20.4"
   }
 }
